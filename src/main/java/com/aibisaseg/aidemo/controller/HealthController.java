@@ -10,7 +10,7 @@ public class HealthController {
 
     @GetMapping
     public String dummyGreeting() {
-        return "service  ai is up!";
+        return "service  ai is up!!";
     }
 
 
